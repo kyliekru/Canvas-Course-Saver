@@ -14,7 +14,7 @@ This project is a Python script designed to automate course data extraction from
 
 **Run**: 
 ```bash
-python canvas_scraper.py
+python CanvasSaver.py
 ```
 
 ## Dependencies
