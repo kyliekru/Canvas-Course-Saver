@@ -1,4 +1,4 @@
-# Canvas Course Scraper
+# Canvas Course Saver
 
 This project is a Python script designed to automate course data extraction from UBC's Canvas platform. It provides functionalities to retrieve and download course materials, process and clean data, and render HTML content for easy visualization. The scraper is built to handle large-scale course data efficiently.
 
